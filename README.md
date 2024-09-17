@@ -27,7 +27,7 @@ In no event shall Eclipse, its developers, or affiliates be liable for any indir
 
 
 # Privacy Policy
-Last Updated: [Date]
+Last Updated: [17/09/2024]
 
 ## 1. Introduction
 We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and protect your information when you use Eclipse Bot.
