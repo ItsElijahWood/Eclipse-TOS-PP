@@ -23,3 +23,32 @@ We reserve the right to terminate or suspend your access to the Bot at our sole 
 
 ## 8. Limitation of Liability
 In no event shall Eclipse, its developers, or affiliates be liable for any indirect, incidental, special, consequential, or punitive damages arising out of your use of the Bot.
+
+
+
+# Privacy Policy
+Last Updated: [Date]
+
+## 1. Introduction
+We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and protect your information when you use Eclipse Bot.
+
+## 2. Information We Collect
+User Data: Discord username, user ID, and any other information you provide.
+Usage Data: Information about how you use the Bot, including commands issued and interactions.
+3. How We Use Your Information
+To provide and maintain the functionality of the Bot.
+To improve user experience.
+To ensure the safety and security of Discord servers using the Bot.
+To communicate with users about updates and administrative messages.
+4. Data Storage and Security
+We take appropriate measures to ensure that your data is stored securely and protected from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure.
+
+## 5. Sharing Your Information
+We do not share, sell, or disclose your personal information to third parties, except in the following circumstances:
+
+With your consent.
+To comply with legal obligations.
+To protect and defend our rights and property.
+To prevent and investigate possible wrongdoing in connection with our services.
+To protect the personal safety of users or the public.
+6. Data Retention
